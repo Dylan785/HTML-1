@@ -1,0 +1,53 @@
+.container {
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    margin-left: 350px; 
+    margin-top: 350px;
+}
+
+.paleta {
+    width: 500px; 
+    height: 500px; 
+    
+    
+}
+
+
+.text {
+    flex: 1; 
+    margin-left: 70px;
+    font-family: 'Roboto bold', sans-serif;
+    font-size: 48pt;
+    
+}
+
+.tletra{
+    font-family: 'Roboto light', sans-serif;
+    font-size: 24pt;
+    top: 10px;
+    
+
+}
+
+.numero {
+    font-family: 'Roboto bold', sans-serif;
+    font-size: 12pt;
+    display: inline-block; /
+    
+}
+.opiniones{
+    font-family: 'Roboto regular', sans-serif; 
+    font-size: 12pt;
+    display: inline-block;
+    
+}
+
+.slash{
+    display: inline-block;
+    font-size: 12pt;
+}
+
+h1{
+    color: blue;
+}
